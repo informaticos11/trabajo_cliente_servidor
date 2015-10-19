@@ -3,7 +3,11 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: 127.0.0.1
+<<<<<<< HEAD
 -- Tiempo de generación: 19-10-2015 a las 22:05:07
+=======
+-- Tiempo de generación: 19-10-2015 a las 16:56:00
+>>>>>>> 17572612e33597033d2ce93181833a837cd283fa
 -- Versión del servidor: 5.5.34
 -- Versión de PHP: 5.4.22
 
@@ -23,6 +27,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+<<<<<<< HEAD
 -- Estructura de tabla para la tabla `cliente`
 --
 
@@ -34,6 +39,8 @@ CREATE TABLE IF NOT EXISTS `cliente` (
 -- --------------------------------------------------------
 
 --
+=======
+>>>>>>> 17572612e33597033d2ce93181833a837cd283fa
 -- Estructura de tabla para la tabla `producto`
 --
 
